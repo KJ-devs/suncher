@@ -1,5 +1,5 @@
 # 👋 Welcome to my GitHub profile            ![Profile Views](https://komarev.com/ghpvc/?username=suncher&color=blueviolet&style=flat-square&label=Profile+Views&Color=blue)
-
+I'm an enthusiastic web developer with a passion for creating innovative and user-friendly applications. With a degree in web and mobile development and a drive to continuously learn and improve. As a proactive problem solver and creative thinker, I thrive on challenging projects and collaborating with like-minded individuals to deliver exceptional results.
 
 
 
