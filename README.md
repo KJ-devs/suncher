@@ -21,7 +21,7 @@ I'm a passionate web developer with experience in e-commerce thanks to a profess
 ### Tools
 
 - [![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://figma.com/)
-- [![Photoshop](https://img.shields.io/badge/-Photoshop?style=for-the-badge&logo=adobe-photoshop&logoColor=white)](https://www.adobe.com/products/photoshop.html)
+- [![Photoshop](https://img.shields.io/badge/-Photoshop-#318ce7?style=for-the-badge&logo=adobe-photoshop&logoColor=white)](https://www.adobe.com/products/photoshop.html)
 - [![Microsoft Office](https://img.shields.io/badge/-Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)](https://www.office.com/)
 - [![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
 - [![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
