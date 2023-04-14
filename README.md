@@ -1,13 +1,13 @@
-# Welcome to my GitHub profile            ![Profile Views](https://komarev.com/ghpvc/?username=suncher&color=blueviolet&style=flat-square&label=Profile+Views&Color=blue)
+👋 # Welcome to my GitHub profile            ![Profile Views](https://komarev.com/ghpvc/?username=suncher&color=blueviolet&style=flat-square&label=Profile+Views&Color=blue)
 
 
 
 
-## About me
+🧑‍💻 ## About me 
 
 I'm a passionate web developer with experience in e-commerce thanks to a professional degree in web and mobile development. I'm 21 years old and love learning about new technologies.
 
-## Skills
+🚀 ## Skills
 
 ### Frontend languages
 
@@ -29,12 +29,12 @@ I'm a passionate web developer with experience in e-commerce thanks to a profess
 - [![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
 - [![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 
-## Most used languages
+📊 ## Most used languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suncher&layout=compact)
 
 Feel free to explore my projects on GitHub to see how I use these skills to create interesting web applications.
 
-## Contact me
+📞 ## Contact me
 
 If you're interested in my profile, feel free to contact me on [LinkedIn](https://www.linkedin.com/in/j%C3%A9r%C3%A9mie-krebs-4b4677226/)! I'm currently looking for employment starting in August.
