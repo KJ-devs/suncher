@@ -1,4 +1,4 @@
-# Welcome to my GitHub profile                                      ![Profile Views](https://komarev.com/ghpvc/?username=suncher&color=blue&label=Profile+Views&style=plastic)
+# Welcome to my GitHub profile                                      ![Profile Views](https://komarev.com/ghpvc/?username=suncher&color=red&label=Profile+Views&style=blue)
 
 
 ## About me
