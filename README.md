@@ -34,4 +34,4 @@ Feel free to explore my projects on GitHub to see how I use these skills to crea
 
 ## Contact me
 
-If you're interested in my profile, feel free to contact me on [LinkedIn](https://www.linkedin.com/in/jérémie-krebs-4b4677226/)! I'm currently looking for employment starting in August.
+If you're interested in my profile, feel free to contact me on [LinkedIn](https://www.linkedin.com/in/j%C3%A9r%C3%A9mie-krebs-4b4677226/)! I'm currently looking for employment starting in August.
