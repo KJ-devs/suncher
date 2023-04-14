@@ -30,7 +30,7 @@ Je suis un développeur web passionné ayant une expérience en e-commerce grâc
 
 ## Langages les plus utilisés
 
-![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=votre_nom_d_utilisateur&layout=compact)
+![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=suncher&layout=compact)
 
 N'hésitez pas à explorer mes projets sur GitHub pour voir comment j'utilise ces compétences pour créer des applications web intéressantes.
 
