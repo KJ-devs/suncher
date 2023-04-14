@@ -1,4 +1,4 @@
-# Welcome to my GitHub profile                                           ![visitors](https://visitor-badge.glitch.me/badge?page_id=suncher&left_color=blue&right_color=red)
+# Welcome to my GitHub profile                                           ![Profile Views](https://komarev.com/ghpvc/?username=suncher&color=brightgreen&label=Profile+Views)
 
 ## About me
 
