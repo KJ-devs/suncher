@@ -14,7 +14,7 @@ I'm a passionate web developer with experience in e-commerce thanks to a profess
 
 ### Backend languages
 
-- ![Symfony](https://img.shields.io/badge/-Symfony-000000?logo=symfony&logoColor=white&style=for-the-badge)
+- ![Symfony]
 - ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=for-the-badge)
 - ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
 
