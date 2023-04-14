@@ -1,16 +1,38 @@
 ### Hi there 👋
 
-<!--
-**suncher/suncher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Bienvenue sur mon profil GitHub
 
-Here are some ideas to get you started:
+## À propos de moi
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Je suis un développeur web passionné ayant une expérience en e-commerce grâce à une licence professionnelle en web et mobile. J'ai 21 ans et j'aime apprendre de nouvelles technologies.
+
+## Compétences
+
+### Langages frontend
+
+- Angular
+- React
+- TypeScript
+
+### Langages backend
+
+- Symfony
+- PHP
+- MySQL
+
+### Outils
+
+- Figma
+- Photoshop
+- Microsoft Office
+- Node.js
+- Git
+
+## Langages les plus utilisés
+
+![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=votre_nom_d_utilisateur&layout=compact)
+
+N'hésitez pas à explorer mes projets sur GitHub pour voir comment j'utilise ces compétences pour créer des applications web intéressantes.
+
+Merci d'avoir visité mon profil !
+
